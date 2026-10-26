@@ -1,7 +1,7 @@
 // ---------- 1. Connect to the database (Supabase) ----------
 // Copy these two values from your Supabase project (Connect button).
-const SUPABASE_URL = "https://ougeqnqkaoqtiovrmzoz.supabase.co";
-const SUPABASE_KEY = "sb_publishable_Y8Uea8i-qWhQkvVLWPM69g_HsMYoieg";
+const SUPABASE_URL = "https://wbscuywoijsltgjxoqmx.supabase.co";
+const SUPABASE_KEY = "sb_publishable_pCJj8ceAd12HdSTVadGG3Q_wkeC-LQa";
 
 const sb = supabase.createClient(SUPABASE_URL, SUPABASE_KEY);
 
